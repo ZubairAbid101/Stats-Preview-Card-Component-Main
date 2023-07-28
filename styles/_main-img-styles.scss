@@ -1,0 +1,16 @@
+#img-container{
+    background-color: var(--img-bg);
+    border-radius: 0px 10px 10px 0px;
+}
+
+#desktop-img{
+    width: 100%;
+    opacity: 0.7;
+    display: block;
+    border-radius: 0px 10px 10px 0px;
+}
+
+#mobile-img{
+    display: none;
+    border-radius: 10px 10px 0px 0px;
+}

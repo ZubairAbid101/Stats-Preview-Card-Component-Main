@@ -1,0 +1,46 @@
+#info-container{
+    padding: 30px;
+}
+
+#heading{
+    color: var(--main-heading-color);
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.heading-highlight{
+    color: var(--img-bg)
+}
+
+#text{
+    margin-top: 30px;
+    color: var(--main-text-color);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+#stats-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.stat{
+    margin-top: 30px;
+    margin-right: 40px;
+}
+
+.stat-heading{
+    color: var(--stat-heading-color);
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.stat-text{
+    color: var(--stat-text-color);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
